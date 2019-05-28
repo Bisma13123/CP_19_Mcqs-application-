@@ -8,9 +8,18 @@ Project coding:
 
 
 from tkinter import *
+
+
 import tkinter as tk
+
+
 from tkinter import messagebox
+
+
+
 from functools import partial
+
+
 
 
 root = tk.Tk()
